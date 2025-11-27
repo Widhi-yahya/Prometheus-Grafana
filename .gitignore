@@ -1,0 +1,20 @@
+# Binaries dan archives
+*.tar.gz
+prometheus-2.48.0.linux-amd64/prometheus
+prometheus-2.48.0.linux-amd64/promtool
+node_exporter-1.7.0.linux-amd64/node_exporter
+
+# Data directory
+prometheus-2.48.0.linux-amd64/data/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
